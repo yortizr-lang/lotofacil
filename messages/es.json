@@ -1,0 +1,97 @@
+{
+  "nav": {
+    "tagline": "Resultados de loterías",
+    "paises": "Países",
+    "legales": "Legal",
+    "aviso": "Aviso legal",
+    "privacidad": "Privacidad",
+    "cookies": "Cookies",
+    "contacto": "Contacto"
+  },
+  "site": {
+    "nombre": "Lotofácil",
+    "tagline": "Resultados y análisis estadístico de loterías"
+  },
+  "home": {
+    "titulo": "Loterías de {pais}",
+    "intro": "Resultados oficiales y análisis de frecuencia histórica. Elige una lotería:",
+    "verEstadisticas": "Ver resultados y estadística"
+  },
+  "loteria": {
+    "resultadosY": "Resultados y estadísticas",
+    "analisisHistorico": "Análisis de frecuencia histórica",
+    "acercaDe": "Sobre {loteria}"
+  },
+  "extras": {
+    "titulo": "Generadores · solo diversión"
+  },
+  "archivo": {
+    "subtitulo": "{total} sorteos en el histórico",
+    "anterior": "Anteriores",
+    "siguiente": "Siguientes",
+    "pagina": "Página {page} de {total}",
+    "cargando": "Cargando…",
+    "vacio": "Sin resultados todavía."
+  },
+  "predictor": {
+    "tituloCard": "Generador estadístico",
+    "subCard": "Ponderado por la frecuencia histórica",
+    "titulo": "Generador de la suerte",
+    "subtitulo": "Un extra para jugar con las estadísticas. No influye en el sorteo.",
+    "badge": "Extra divertido",
+    "criterio": "Criterio de análisis",
+    "calientes": "Calientes",
+    "frios": "Fríos",
+    "generar": "Generar combinación",
+    "generarDeNuevo": "Generar de nuevo",
+    "mezclando": "Mezclando…",
+    "hintCalientes": "Combinación al azar ponderada hacia los números más frecuentes · solo entretenimiento",
+    "hintFrios": "Combinación al azar ponderada hacia los números menos frecuentes · solo entretenimiento",
+    "placeholder": "Pulsa «Generar» para crear una combinación",
+    "mezclandoBalotas": "🎰 Mezclando balotas…",
+    "masFrecuentes": "🔥 Números más frecuentes",
+    "menosFrecuentes": "❄️ Mayor tiempo sin salir",
+    "veces": "{n}×",
+    "dias": "{n} d"
+  },
+  "stats": {
+    "ultimosSorteos": "Resultados recientes",
+    "consultaTitulo": "Números calientes y fríos",
+    "calientesTitulo": "Números calientes",
+    "calientesDesc": "Los que más han salido en el histórico",
+    "friosTitulo": "Números fríos",
+    "friosDesc": "Los que llevan más tiempo sin aparecer",
+    "ultimoResultado": "Último resultado",
+    "resultadosRegistrados": "Resultados oficiales registrados",
+    "mapaCalor": "🌡️ Mapa de calor de frecuencias",
+    "mapaCalorDesc": "Intensidad según cuántas veces ha salido cada número en el histórico",
+    "leyendaMenos": "Menos frecuente",
+    "leyendaMas": "Más frecuente",
+    "avanzado": "📊 Estadística avanzada",
+    "pares": "Pares",
+    "impares": "Impares",
+    "sumaMedia": "Suma media",
+    "veces": "{n}×",
+    "dias": "{n} d",
+    "sorteoNum": "#{n}"
+  },
+  "disclaimer": {
+    "compacto": "Análisis estadístico histórico · cada sorteo es independiente · no predice resultados",
+    "independiente": "Cada sorteo es un evento independiente y aleatorio. Las frecuencias son curiosidad histórica, no una predicción: un número \"caliente\" no tiene mayor probabilidad de salir. Esta herramienta no mejora tus posibilidades de ganar.",
+    "juegoResponsableTitulo": "Juego responsable",
+    "juegoResponsable": "Jugar a la lotería implica gasto sin garantía de retorno. Apuesta solo lo que puedas permitirte perder. Si el juego se vuelve un problema, en Colombia puedes contactar la Línea 192 (MinSalud). Apto solo para mayores de 18 años."
+  },
+  "genFecha": {
+    "titulo": "Números de la suerte",
+    "sub": "A partir de tu fecha de nacimiento",
+    "label": "Tu fecha de nacimiento",
+    "generar": "Generar mis números",
+    "placeholder": "Elige una fecha y pulsa generar"
+  },
+  "cookies": {
+    "banner": "Usamos cookies propias y de terceros para análisis y, en su caso, publicidad. Puedes aceptarlas o rechazarlas.",
+    "aceptar": "Aceptar",
+    "rechazar": "Rechazar",
+    "masInfo": "Más información"
+  }
+}

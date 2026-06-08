@@ -1,0 +1,4 @@
+# Proyecto en construcción: bloqueado para todos los buscadores.
+# Cuando se lance, cambiar a "Allow: /" y añadir el sitemap.
+User-agent: *
+Disallow: /

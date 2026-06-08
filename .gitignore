@@ -1,0 +1,23 @@
+# dependencias
+/node_modules
+/.pnp
+.pnp.*
+
+# build
+/.next/
+/out/
+/build
+next-env.d.ts
+
+# entorno (se configura en hPanel de Hostinger; .env.local se borra en cada redeploy)
+.env*.local
+.env
+
+# logs y sistema
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.pem
+.DS_Store
+.vercel
+*.tsbuildinfo
